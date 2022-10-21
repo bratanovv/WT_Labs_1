@@ -1,0 +1,2 @@
+javac ../task_9/*.java ../task_9/data/*.java ../task_9/logic/*.java -d bin
+java -cp bin Main.java
